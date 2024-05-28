@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Deep RL 🎮
 - 🌱 I’m currently learning Neuroscience 🧠 
-- 📫 How to reach me: twitter.com/rayus77
+- 📫 How to reach me: x.com/rayus77
 - ⚡ Fun fact: You can't look up while your tongue is out 😛
 
 <!--
