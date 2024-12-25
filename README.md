@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep RL 🎮
-- 🌱 I’m currently learning Neuroscience 🧠 
+- 🔭 I’m currently working on Deep RL, EvoComp, Neurocomputation and Info. Ret.
 - 📫 How to reach me: x.com/rayus77
-- ⚡ Fun fact: You can't look up while your tongue is out 😛
 
 <!--
 **Surya-77/Surya-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
